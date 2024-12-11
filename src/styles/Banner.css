@@ -1,0 +1,94 @@
+.banner{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    height: 800px;
+    margin-top: -60px !important;
+    margin-bottom: 14%;
+    background-color: #f0f0f0;
+}
+
+.aman{
+    font-size: 110px;
+    margin-left: 50px;
+    margin-top: 40px;
+  
+}
+.aman1{
+    font-size: 110px;
+    margin-left: 50px;
+    /* margin-bottom: -20px; */
+    margin-top: -80px;
+  
+}
+.aman2{
+    font-size: 110px;
+    margin-left: 50px;
+    margin-top: -80px; 
+   
+
+}
+.harsh{
+    margin-top: 39px;
+}
+
+.homeImg{
+    
+   margin-top: -780px;
+   margin-left: 900px;
+   position: absolute;
+}
+.john{
+    font-size: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+.PP{
+   
+    margin-left: 40px;
+    font-size: 30px;
+    border-radius: 100px;
+  
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+
+    
+}
+.port{
+    color: grey;
+    margin-top: 30px;
+}
+.folio{
+    color: grey;
+    margin-top: 20px;
+}
+/* .three{
+    margin-left: 200px;
+   margin-top: px; 
+  
+} */
+/* .low{
+ margin-left: 200px;
+    margin-top: 116px;
+    margin-bottom: 50px; 
+} */
+.school{
+    margin-top: -116px;
+    margin-left: 250px;
+    margin-bottom: 200px;
+}
+.onetick{
+    margin-top: -290px;
+    margin-left: 500px;
+}
+.zara{
+    width: 1800px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.vansh{
+    margin-left:50px;
+}

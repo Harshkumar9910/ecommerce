@@ -1,0 +1,98 @@
+.bttom{
+    margin-top: 150px;
+    background-color:#f0f0f0 ;
+    position: relative;
+    
+    height: 500px;
+    
+}
+.cmp{
+    position: static;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+}
+.smm{
+    margin-top: -4px;
+    position: absolute;
+    font-size: 50px
+}
+.company2{
+    color: grey;
+}
+.a11{
+    position: absolute;
+    padding-top: 50PX;
+    
+   
+}
+.a22{
+    position: absolute;
+    padding-top: 75px;
+   
+
+}
+.a33{
+    position: absolute;
+    padding-top: 100px;
+   
+}
+.img1{
+    /* position: absolute; */
+    padding-top: 130px;
+
+}
+.stay{
+    position: relative;
+    height: 190px;
+    width: 1250px;
+    background-color: black;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: -450px;
+}
+.ylt1{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 850px;
+    margin-top: 30px;
+}
+
+.ylt2{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 850px;
+    margin-top: 30px;
+}
+.st{
+    color: white;
+    margin-top: -100px;
+    margin-left: 40px;
+    position: absolute;
+    font-size: 45px;
+}
+.lt{
+    color: white;
+    margin-top: -40px;
+    margin-left: 40px;
+    position: absolute;
+    font-size: 45px;
+}
+.klm{
+    height: 2px;
+    width: 1300px;
+    background-color: grey;
+    margin-top: 280px;
+    margin-left: 90px;
+} 
+.r2000{
+    margin-left: 110px;
+    margin-top: 30px;
+    color: grey;
+}
+.p0{
+    margin-left: 1100px;
+    margin-top: -90px;
+}

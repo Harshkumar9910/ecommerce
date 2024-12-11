@@ -1,0 +1,113 @@
+.login1{
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    font-size: 18PX;
+    margin-left: 1000PX;
+    position: absolute;
+}
+.signup1{
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    margin-left:1200px ;
+    font-size: 18px;
+    position: absolute;
+}
+.sg1{
+    margin-left: 1000px;
+    margin-top: 180px;
+    font-size: 22px;
+
+}
+.sg2{
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20px;
+}
+.sg3{
+    height: 1px;
+    width: 280px;
+    background-color: grey;
+    margin-top: 50px;
+    position: absolute;
+}
+.or{
+   position: absolute;
+   color: grey;
+   margin-left: 320px;
+   font-size: 22px;
+   margin-top: 30px;
+}
+.sg4{
+    height: 1px;
+    width: 280px;
+    background-color: grey;
+    margin-top: 50px;
+    margin-left: 400PX;
+    position: absolute;
+}
+
+.user{
+
+    margin-left: 1000px;
+    
+}
+.user1{
+    color: grey;
+    margin-top: 90PX;
+}
+.user2{
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20px;
+}
+.user3{
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20px;
+}
+.user11{
+    color: grey;
+    
+}
+.btsn{
+    margin-top: 50px;
+    margin-left: 0px;
+}
+.btsn1{
+    height: 60px;
+    width: 170px;
+    border-radius: 10px;
+    
+    color: white;
+    
+     background-color: black;
+    font-size: 18px;
+    
+    
+}
+.imgn{
+    margin-top: -820px;
+}
+.imgs1{
+    margin-left: 30px;
+
+}
+
+.img-container{
+    height: 900px;
+    width: 850px;
+    margin-top: 0px;
+}
+

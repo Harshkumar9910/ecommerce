@@ -1,0 +1,395 @@
+.minn1{
+    margin-top: 120px;
+    margin-left: 700px;
+    background-color: #f0f0f0;
+    border-radius: 30px;
+    width: 100px;
+  }
+  .kal{
+    margin-bottom: 15px;
+  }
+  .size-button{
+    width: 100px;
+  }
+  .color-button, .size-button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff;
+    
+    transition: background-color 0.3s ease;
+  }
+  .color-button.selected {
+    border: 2px solid black;
+    color: white;
+  }
+  
+  
+  .color-button:hover, .size-button:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .color-button.selected, .size-button.selected {
+    background-color: #4caf50;
+    color: #fff;
+    border-color: #4caf50;
+  }
+  
+  .gtshirt0{
+      height: 150px;
+      width: 170px;
+      margin-top: 70px;
+      border-radius: 30px;
+      margin-left: 20px;
+      position: absolute;
+      border-color: black;
+    }
+    .div0{
+      margin-top: -10px;
+    }
+    .gtshirt20{
+      height: 150px;
+      width: 170px;
+      margin-top: 230px;
+      border-radius: 30px;
+      margin-left: 23px;
+    
+    }
+    .gtshirt30{
+      height: 150px;
+      width: 170px;
+      margin-top: 10px;
+      margin-left: 20px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+  
+    }
+    .paw0{
+      height: 450px;
+      width: 400px;
+      margin-left: 240px;
+      border-radius: 100px;
+      margin-bottom: 50px;
+      margin-top: -750px;
+    }
+    .heading0{
+    margin-top: -450px;
+    margin-left: 660px;
+    font-size: 43px;
+    font-weight: 800;
+    }
+    .rating0{
+    margin-top: -18px;
+    margin-left: 650px;
+    height: 50px;
+    width: 600px;
+    }
+    .price0{
+      margin-left: 680px;
+      margin-top: -7px;
+    }
+    .price20{
+      margin-left: 770px;
+      color: red;
+      margin-top: -55px;
+      font-size: 20px;
+    }
+    .para0{
+      margin-left: 675px;
+      color: black;
+    
+    }
+    .color0{
+      margin-left: 685px;
+      margin-top: 50px;
+      font-size: 25px;
+    }
+    .hr0{
+      background-color: black;
+      height: 1px;
+      width: 94%;
+      margin-left: 3%;
+    }
+   
+    .button10{
+   border-radius: 50px;
+    height: 50px;
+    width: 500px;
+    margin-top: 75px;
+    margin-left: 950px;
+    background-color: black;
+    color: white;
+    }
+    .button20{
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 780px;
+    position: absolute;
+    }
+    .mn0{
+    border-radius: 20px;
+    height: 50px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 800px;
+    background-color: black;
+    color: white;
+    }
+    .button40{
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    margin-top: 75px;
+    margin-left: 1000px;
+    position: absolute;
+    }
+    .mn0{
+     margin-bottom: -50px;
+    }
+    .might0{
+      font-size: 45px;
+      font-weight: 900;
+      margin-top: 100px;
+    }
+    .button50{
+      background-color: black;
+      color: wheat;
+      width: 315px;
+      height: 45px;
+      border-radius: 20px;
+      margin-left: 750px;
+      margin-top: 165px;
+    }
+    .details0{
+      font-size: 35px;
+      margin-top: 200px;
+      margin-left: 50px;
+  font-weight: 600
+    }
+    
+    .txt0{
+      margin-left: 90px;
+      font-size: 20px;
+      margin-top: 50px;
+      margin-right: 50px;
+      font-weight: 330;
+  
+    }
+    .outerdiv0{
+      height: 30px;
+      width: 150px;
+      background-color: white;
+      margin-left: 690px;
+      margin-top: -50px;
+    }
+    
+    .hhhl{
+      margin-left: 50px;
+      font-weight: 50px;
+      font-size: small;
+    }
+    .txtt1{
+      margin-left: 90px;
+      margin-top: 30px;
+    }
+   .color01{
+    height: 40px;
+    width: 90px;
+    margin-left: 680px;
+  margin-bottom: 20px;
+    border-radius: 30px;
+   }
+   .color02{
+    height: 40px;
+    width: 90px;
+  
+    border-radius: 30px;
+   }
+   .color03{
+    height: 40px;
+    width: 90px;
+  
+    border-radius: 30px;
+   }
+   .color04{
+    height: 40px;
+    width: 90px;
+  
+    border-radius: 30px;
+   }
+   
+  .gtshirt0{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+    position: absolute;
+    border-color: black;
+  }
+  .div0{
+    margin-top: 10px;
+  }
+  .gtshirt20{
+    height: 150px;
+    width: 140px;
+    margin-top: 230px;
+    border-radius: 10px;
+    margin-left: 23px;
+  }
+  .gtshirt30{
+    height: 190px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 20px;
+  }
+  .paw0{
+    height: 550px;
+    width: 400px;
+    margin-left: 240px;
+    margin-top: -600px;
+    border-radius: 35px;
+  }
+  .heading0{
+  margin-top: -550px;
+  margin-left: 660px;
+  font-size: 43px;
+  font-weight: 800;
+  }
+  .rating0{
+  margin-top: -18px;
+  margin-left: 650px;
+  height: 50px;
+  width: 600px;
+  }
+  .price0{
+    margin-left: 680px;
+    margin-top: -7px;
+  }
+  .price20{
+    margin-left: 770px;
+    /* color: red; */
+    margin-top: -55px;
+    font-size: 20px;
+  }
+  .para0{
+    margin-left: 675px;
+    color: black;
+  
+  }
+  .color0{
+    margin-left: 685px;
+    margin-top: 50px;
+    font-size: 25px;
+  }
+  .hr0{
+    background-color: black;
+    height: 1px;
+    width: 94%;
+    margin-left: 3%;
+  }
+   .color20{
+     margin-left: 960px;
+    margin-right: 2000px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+  } 
+   
+  .button10{
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+  margin-top: 75px;
+  margin-left: 670px;
+  position: absolute;
+  background-color: white;
+  }
+  .button20{
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+  margin-top: 75px;
+  margin-left: 780px;
+  position: absolute;
+  }
+  .button30{
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+  margin-top: 75px;
+  margin-left: 890px;
+  position: absolute;
+  background-color: black;
+  color: white;
+  }
+  .button40{
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+  margin-top: 75px;
+  margin-left: 1000px;
+  position: absolute;
+  }
+  .mn0{
+   margin-bottom: -50px;
+  }
+  .might0{
+    font-size: 45px;
+    font-weight: 900;
+    margin-top: 100px;
+  }
+  .button50{
+    background-color: black;
+    color: wheat;
+    width: 315px;
+    height: 45px;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: 165px;
+  }
+  .details0{
+    font-size: 35px;
+    margin-top: 100px;
+    margin-left: 50px;
+  font-weight: 600
+  }
+  .txt0{
+    margin-left: 90px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-right: 50px;
+    font-weight: 330;
+  
+  }
+  
+  .plus0{
+    height: 40px;
+    margin-left: 8px;
+    border-radius: 30px;
+  }
+  .minus0{
+    height: 40px;
+    margin-right: 8px;
+    border-radius: 30px;
+  
+  }
+  .hhhl{
+    margin-left: 50px;
+    font-weight: 50px;
+    font-size: small;
+  }
+  .txtt1{
+    margin-left: 90px;
+    margin-top:30px;
+  }
+.oops{
+  margin-left: 685px;
+  margin-bottom: -10px;
+  font-size: 25px;
+}
